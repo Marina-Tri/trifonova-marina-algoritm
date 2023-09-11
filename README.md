@@ -1,7 +1,7 @@
 # trifonova-marina-algoritm
-====
+____
 ## ***Языки***:
-====
+____
 - `HTML`;
 - `CSS`.
 
