@@ -1,6 +1,6 @@
-#trifonova-marina-algoritm
+# trifonova-marina-algoritm
 ====
-##***Языки***:
+## ***Языки***:
 ====
 - `HTML`;
 - `CSS`.
