@@ -10,3 +10,6 @@ ____
 ____
 Ссылка на replit:
 https://replit.com/@28062003m
+____
+Ссылка на Хабр Фриланс:
+https://freelance.habr.com/freelancers/Marina-Tri
