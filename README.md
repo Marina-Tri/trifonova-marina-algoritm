@@ -7,7 +7,7 @@ ____
 
 ____
 [Лекции](https://drive.google.com/drive/folders/1xVBhdnlYtjHykHaQzYspqU1zybDLlhjy?usp=drive_link)
-____
+<br>
 [replit](https://replit.com/@28062003m)
-____
+<br>
 [Хабр Фриланс](https://freelance.habr.com/freelancers/Marina-Tri)
