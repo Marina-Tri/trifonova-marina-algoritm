@@ -11,3 +11,6 @@ ____
 [replit](https://replit.com/@28062003m)
 <br>
 [Хабр Фриланс](https://freelance.habr.com/freelancers/Marina-Tri)
+____
+Практика:
+https://drive.google.com/drive/folders/1T0ukY3JPIuW0WAcndi22cXvnQ4yqcc0p
