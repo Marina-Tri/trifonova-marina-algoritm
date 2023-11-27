@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T09:45:15.391Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36" etag="DYjOg94HZw63jNZE0T-w" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T09:56:31.260Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36" etag="8kuMa4wqvqoGyoMCy7h0" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="HSgIeYpHN0TZc10av27_">
-    <mxGraphModel dx="466" dy="777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,6 +48,41 @@
         </mxCell>
         <mxCell id="zJwWBmNFhzAgIZPLMXwU-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;YES&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="139.75" y="741" width="46" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-18" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Номер 1&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="159.26" y="142" width="81" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-19" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Номер 2&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1003" width="81" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zJwWBmNFhzAgIZPLMXwU-20" target="zJwWBmNFhzAgIZPLMXwU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-20" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ввод р&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="133" y="1058" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-27" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zJwWBmNFhzAgIZPLMXwU-21" target="zJwWBmNFhzAgIZPLMXwU-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-21" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Цикл до р - 1&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="1194" width="201" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zJwWBmNFhzAgIZPLMXwU-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="1262" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="495" y="1456" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-30" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zJwWBmNFhzAgIZPLMXwU-26" target="zJwWBmNFhzAgIZPLMXwU-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-26" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Суммировать 1 + 1 / (1 + 1)&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="69.5" y="1453" width="252" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-29" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Склеивание пароля&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="95.63000000000001" y="1717" width="194.74" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
