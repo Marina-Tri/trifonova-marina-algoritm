@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T09:56:31.260Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36" etag="8kuMa4wqvqoGyoMCy7h0" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T10:03:35.025Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36" etag="aaN7pCSwnhCWWFmSpJgF" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="HSgIeYpHN0TZc10av27_">
-    <mxGraphModel dx="593" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="808" dy="680" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,6 +83,27 @@
         </mxCell>
         <mxCell id="zJwWBmNFhzAgIZPLMXwU-29" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Склеивание пароля&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="95.63000000000001" y="1717" width="194.74" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-32" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Номер 3&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1926" width="81" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-35" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zJwWBmNFhzAgIZPLMXwU-33" target="zJwWBmNFhzAgIZPLMXwU-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-33" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ввод х и у&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="157" y="2067" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-37" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zJwWBmNFhzAgIZPLMXwU-34" target="zJwWBmNFhzAgIZPLMXwU-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-34" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;1000 &amp;lt;= x &amp;lt;= 9999 и 1000 &amp;lt;= y &amp;lt;= 9999 и x &amp;lt;= y&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-49" y="2229" width="532" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-36" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Введено не четырехзначное число или первое число больше второго&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="627" y="2305.5" width="288" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-38" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;NO&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="527" y="2288" width="40" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
