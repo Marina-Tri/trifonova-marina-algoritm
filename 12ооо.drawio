@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T09:03:33.743Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36" version="22.1.4" etag="h909zG4MjmBzVvFZlFNe" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T09:45:15.391Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36" etag="DYjOg94HZw63jNZE0T-w" version="22.1.4" type="github">
   <diagram name="Страница — 1" id="HSgIeYpHN0TZc10av27_">
-    <mxGraphModel>
+    <mxGraphModel dx="466" dy="777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zJwWBmNFhzAgIZPLMXwU-1" target="zJwWBmNFhzAgIZPLMXwU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Ввод данных х и у&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="121.63" y="207" width="156.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;НO&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="407" y="332" width="120" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zJwWBmNFhzAgIZPLMXwU-2" target="zJwWBmNFhzAgIZPLMXwU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zJwWBmNFhzAgIZPLMXwU-2" target="zJwWBmNFhzAgIZPLMXwU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;х и у от 1 до 10000 и х &amp;lt;= у&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="75.5" y="310" width="248.5" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;НО&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="339" y="330" width="40" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zJwWBmNFhzAgIZPLMXwU-9" target="zJwWBmNFhzAgIZPLMXwU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-15" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="zJwWBmNFhzAgIZPLMXwU-9" target="zJwWBmNFhzAgIZPLMXwU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;y % ​​(y - (x - 1)) == 0&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="87" y="547" width="234" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;YES&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="145" y="467" width="46" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-12" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;НO&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="436" y="604.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-13" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ДаS&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="139.75" y="806" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-16" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;НO&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="347" y="590" width="40" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="zJwWBmNFhzAgIZPLMXwU-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;YES&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="139.75" y="741" width="46" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
