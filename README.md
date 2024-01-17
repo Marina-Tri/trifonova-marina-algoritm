@@ -17,3 +17,6 @@ https://github.com/Marina-Tri/TragicDotingDesign
 ____
 Практика:
 https://drive.google.com/drive/folders/1T0ukY3JPIuW0WAcndi22cXvnQ4yqcc0p
+____
+Численные методы:
+https://drive.google.com/drive/folders/1wbbVbm67tI6DKEHuq33_GLJXyTtM0ZGT
