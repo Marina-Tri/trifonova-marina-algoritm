@@ -14,6 +14,8 @@ ____
 ____
 Питон телеграмм бот:
 https://github.com/Marina-Tri/TragicDotingDesign
+Питон код будущего:
+https://github.com/Marina-Tri/AvariciousPastAdministrator
 ____
 Практика:
 https://drive.google.com/drive/folders/1T0ukY3JPIuW0WAcndi22cXvnQ4yqcc0p
