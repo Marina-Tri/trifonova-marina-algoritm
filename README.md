@@ -12,7 +12,7 @@ ____
 <br>
 [Хабр Фриланс](https://freelance.habr.com/freelancers/Marina-Tri)
 ____
-Питон:
+Питон телеграмм бот:
 https://github.com/Marina-Tri/TragicDotingDesign
 ____
 Практика:
