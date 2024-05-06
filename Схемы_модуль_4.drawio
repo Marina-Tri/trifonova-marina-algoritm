@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2024-05-06T09:29:17.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="0v4KvgSuwVoNO6K6_CNm" version="24.3.1" type="google">
+  <diagram name="Страница — 1" id="cdmC1VkkqG3LshqZO5cn">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-26" value="Задание 1" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="820" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-27" value="Класс&amp;nbsp;&lt;div&gt;SpaceShip&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=80;height=30;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-26">
+          <mxGeometry x="20" y="40" width="400" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-28" value="__init__&lt;br&gt;Определение класса" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-26">
+          <mxGeometry x="30" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-29" value="values&lt;div&gt;Возврат значений&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-26">
+          <mxGeometry x="160" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-30" value="rang&lt;div&gt;Вывод ранга&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-26">
+          <mxGeometry x="294" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-32" value="Задание 2" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="180" width="820" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-33" value="Класс&lt;div&gt;Planet&lt;br&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-32">
+          <mxGeometry x="20" y="40" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-34" value="__init__&lt;div&gt;Определение класса&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-32">
+          <mxGeometry x="30" y="75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-35" value="orbit&lt;div&gt;Рисование планеты&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-32">
+          <mxGeometry x="160" y="75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-37" value="Задание 3" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="350" width="820" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iukIMBZIgR4g7_l-GZ8n-37" source="iukIMBZIgR4g7_l-GZ8n-40" target="iukIMBZIgR4g7_l-GZ8n-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-40" value="Получение&amp;nbsp; списка привычек из json-файла" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-37">
+          <mxGeometry x="30" y="50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iukIMBZIgR4g7_l-GZ8n-37" source="iukIMBZIgR4g7_l-GZ8n-42" target="iukIMBZIgR4g7_l-GZ8n-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-42" value="Фильтрация привычек по&amp;nbsp;проявлению не более 2-х" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-37">
+          <mxGeometry x="15" y="140" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iukIMBZIgR4g7_l-GZ8n-37" source="iukIMBZIgR4g7_l-GZ8n-44" target="iukIMBZIgR4g7_l-GZ8n-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-44" value="Фильтрация привычек по вредности" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-37">
+          <mxGeometry x="230" y="140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-45" value="Со&lt;span style=&quot;background-color: initial;&quot;&gt;здание отсортированного csv-файла&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-37">
+          <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-46" value="Задание 4" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="560" width="820" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iukIMBZIgR4g7_l-GZ8n-46" source="iukIMBZIgR4g7_l-GZ8n-48" target="iukIMBZIgR4g7_l-GZ8n-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-48" value="Ввод времени ожидания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-46">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iukIMBZIgR4g7_l-GZ8n-46" source="iukIMBZIgR4g7_l-GZ8n-51" target="iukIMBZIgR4g7_l-GZ8n-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-51" value="Преобразование ввода в объект&amp;nbsp;timedelta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-46">
+          <mxGeometry x="30" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iukIMBZIgR4g7_l-GZ8n-46" source="iukIMBZIgR4g7_l-GZ8n-53" target="iukIMBZIgR4g7_l-GZ8n-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-53" value="Получение текущего времени" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-46">
+          <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iukIMBZIgR4g7_l-GZ8n-46" source="iukIMBZIgR4g7_l-GZ8n-55" target="iukIMBZIgR4g7_l-GZ8n-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-55" value="Ожидание нужного временного отрезка" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-46">
+          <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iukIMBZIgR4g7_l-GZ8n-56" value="Воспроизведение звука" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iukIMBZIgR4g7_l-GZ8n-46">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
