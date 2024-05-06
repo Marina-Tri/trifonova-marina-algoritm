@@ -22,3 +22,9 @@ https://drive.google.com/drive/folders/1wbbVbm67tI6DKEHuq33_GLJXyTtM0ZGT
 ____
 Папка конкурсы:
 https://drive.google.com/drive/folders/1zYLx-DuVWc5QIdVbwkpW1Qd9Pl3d4uyu?usp=sharing
+____
+Схема модуля 3:
+https://drive.google.com/file/d/1Nx12OugMPnkpE7UgZUvlpp46xgxhrlwP/view?usp=sharing
+<br>
+Схема модуля 4:
+https://drive.google.com/file/d/1HA2_UUSgjCidF--pm7ziuH1Hen2UaJvo/view?usp=sharing
