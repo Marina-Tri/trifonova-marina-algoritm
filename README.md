@@ -14,6 +14,9 @@ ____
 ____
 [Питон код будущего](https://replit.com/@28062003m/AvariciousPastAdministrator)
 <br>
+Схема модуля 2:
+https://drive.google.com/file/d/1qL_zWBMeicBu-XQpDgvqZMnzgDTdGaJs/view?usp=sharing
+<br>
 Схема модуля 3:
 https://drive.google.com/file/d/1Nx12OugMPnkpE7UgZUvlpp46xgxhrlwP/view?usp=sharing
 <br>
